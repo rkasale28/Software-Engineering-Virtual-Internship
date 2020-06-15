@@ -3,3 +3,5 @@
 >This internship was provided by JPMorgan Chase & Co. and InsideSherpa.
 
 This course consisted of three tasks, which aimed at finding an alternative way to visualize and analyze share price data for traders that will alert them of potential trading opportunities.
+
+![Certificate](https://github.com/rkasale28/Virtual-Internship/blob/master/Certificate.png)
